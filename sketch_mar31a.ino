@@ -21,8 +21,8 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 #define ALERT_LED 2 // Built-in LED on most ESP32s, or connect external LED here
 
 // WiFi credentials
-char ssid[] = "BARKU06";
-char pass[] = "12345678";
+char ssid[] = "Shubham";
+char pass[] = "Shubham212006";
 
 // MAX30100 Pulse Oximeter
 PulseOximeter pox;
