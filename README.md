@@ -15,7 +15,7 @@ Hardware: ESP32, MAX30102, DS18B20, DHT11, 0.96" OLED<br>
 Software: Arduino IDE, Blynk IoT Platform<br>
 PCB Design: KiCad<br>
 
-👥 Team
-Shruti Lokhande · Avni Mahadeshwar · Soham Mahadeshwar · Shubham Mandavkar<br>
+👥 Team<br>
+· Shubham Mandavkar · Avni Mahadeshwar · Shruti Lokhande · Soham Mahadeshwar <br>
 Guide: Prof. Ankit Deogharkar<br>
 Institute: RGIT Mumbai<br>
